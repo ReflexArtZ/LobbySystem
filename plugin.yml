@@ -1,0 +1,9 @@
+name: LobbySystem
+version: 1.0
+main: de.emeraldmc.lobbysystem.Main
+author: Patrick Sommer
+commands:
+  setlobby:
+  lobby:
+  hub:
+  spawn:
